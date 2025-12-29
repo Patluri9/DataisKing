@@ -1,5 +1,5 @@
 # DataisKing
-Across every domain—from global services to niche products—one truth remains absolute: **Data is the kingmaker**. It is the heartbeat of every system, with the power to either scale a vision or expose a critical flaw. My career is dedicated to protecting the integrity of this "**King**" by bridging the gap between AI, MLOps, and Quality Engineering.
+Across every domain from global services to niche products one truth remains absolute: **Data is the kingmaker**. It is the heartbeat of every system, with the power to either scale a vision or expose a critical flaw. My career is dedicated to protecting the integrity of this "**King**" by bridging the gap between AI, MLOps, and Quality Engineering.
 
 Currently, I specialize in architecting real-time Data Quality Control (DQC) frameworks designed to validate complex ETL pipelines as they move. I don’t just test data; I build the automated infrastructure that ensures it is reliable, reusable, and ready for scale.
 
